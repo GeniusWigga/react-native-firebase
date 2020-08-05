@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221059582592",
+    "firebase_url": "https://zeesarone-cb856.firebaseio.com",
+    "project_id": "zeesarone-cb856",
+    "storage_bucket": "zeesarone-cb856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221059582592:android:0663f24113e46816ca7465",
+        "android_client_info": {
+          "package_name": "com.konsti.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221059582592-u04i0icsmsqrlhbdn3d0r6oq0rbk3mv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE3FnVpINIGj_76M2hGhouEXU9L90Hd1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221059582592-u04i0icsmsqrlhbdn3d0r6oq0rbk3mv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
